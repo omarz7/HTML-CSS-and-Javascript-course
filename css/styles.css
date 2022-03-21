@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@media(max-width:767px){
+
+
+}
+
+@media(min-width:768px) AND (max-width:991px){
+
+}
+
+@media(min-width:992px){
+
+  
+}
